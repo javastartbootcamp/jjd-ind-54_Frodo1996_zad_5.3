@@ -1,7 +1,6 @@
 package pl.javastart.task;
 
 public class Main {
-
     public static void main(String[] args) {
         Product product1 = new Product("Banan", "żółty owoc tropikalny", 2.50, "fruits");
         Product product2 = new Product("Cebula", "doprowadzi Cię do łez", 1.25, "vegetables");
